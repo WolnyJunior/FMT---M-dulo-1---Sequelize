@@ -3,7 +3,7 @@
 
 <p>O framework utilizado foi o Express, no NodeJs</p>
 <p>Com o sequelize, foram criadas as tabelas através das migrations e integrada ao banco de dados. Postgres foi o SGBD utilizado.</p>
-<p>O Postman foi utilizado para testar a API criada.</p>
+<p>O Postman foi a aplicação utilizada para testar a API criada.</p>
 <p>As tecnologias e ferramentas usadas foram:</p>
           
 [![My Skills](https://skillicons.dev/icons?i=,postgresql,express,nodejs,postman,sequelize,vscode,js,git)](https://skillicons.dev)
